@@ -1,0 +1,14 @@
+C:\Users\israe\source\repos\Course\Course\bin\Debug\netcoreapp3.1\Course.exe
+C:\Users\israe\source\repos\Course\Course\bin\Debug\netcoreapp3.1\Course.deps.json
+C:\Users\israe\source\repos\Course\Course\bin\Debug\netcoreapp3.1\Course.runtimeconfig.json
+C:\Users\israe\source\repos\Course\Course\bin\Debug\netcoreapp3.1\Course.runtimeconfig.dev.json
+C:\Users\israe\source\repos\Course\Course\bin\Debug\netcoreapp3.1\Course.dll
+C:\Users\israe\source\repos\Course\Course\bin\Debug\netcoreapp3.1\Course.pdb
+C:\Users\israe\source\repos\Course\Course\obj\Debug\netcoreapp3.1\Course.csproj.AssemblyReference.cache
+C:\Users\israe\source\repos\Course\Course\obj\Debug\netcoreapp3.1\Course.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\israe\source\repos\Course\Course\obj\Debug\netcoreapp3.1\Course.AssemblyInfoInputs.cache
+C:\Users\israe\source\repos\Course\Course\obj\Debug\netcoreapp3.1\Course.AssemblyInfo.cs
+C:\Users\israe\source\repos\Course\Course\obj\Debug\netcoreapp3.1\Course.csproj.CoreCompileInputs.cache
+C:\Users\israe\source\repos\Course\Course\obj\Debug\netcoreapp3.1\Course.dll
+C:\Users\israe\source\repos\Course\Course\obj\Debug\netcoreapp3.1\Course.pdb
+C:\Users\israe\source\repos\Course\Course\obj\Debug\netcoreapp3.1\Course.genruntimeconfig.cache
